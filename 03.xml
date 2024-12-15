@@ -8,16 +8,6 @@
             <genero>Fantasía</genero>
             <precio>25</precio>
         </libro>
-    </libreria>
-    <libreria>
-        <libro>
-            <titulo>El Señor de los Anillos</titulo>
-            <autor>J.R.R. Tolkien</autor>
-            <editorial>Minotauro</editorial>
-            <fecha>1954</fecha>
-            <genero>Fantasía</genero>
-            <precio>25</precio>
-        </libro>
         <libro>
             <titulo>El Silmarillion</titulo>
             <autor>J.R.R. Tolkien</autor>
@@ -25,5 +15,13 @@
             <fecha>1977</fecha>
             <genero>Fantasía</genero>
             <precio>25</precio>
+        </libro>
+        <libro>
+            <titulo>El Hobbit</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <editorial>Minotauro</editorial>
+            <fecha>1937</fecha>
+            <genero>Fantasía</genero>
+            <precio>15</precio>
         </libro>
     </libreria>
