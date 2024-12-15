@@ -7,6 +7,17 @@
             <fecha>1954</fecha>
             <genero>Fantasía</genero>
             <precio>25</precio>
+<<<<<<< HEAD
+=======
+        </libro>    
+        <libro>
+            <titulo>El Señor de los Anillos</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <editorial>Minotauro</editorial>
+            <fecha>1954</fecha>
+            <genero>Fantasía</genero>
+            <precio>25</precio>
+>>>>>>> fea/wac02
         </libro>
         <libro>
             <titulo>El Silmarillion</titulo>
@@ -17,11 +28,20 @@
             <precio>25</precio>
         </libro>
         <libro>
+<<<<<<< HEAD
             <titulo>El Hobbit</titulo>
             <autor>J.R.R. Tolkien</autor>
             <editorial>Minotauro</editorial>
             <fecha>1937</fecha>
             <genero>Fantasía</genero>
             <precio>15</precio>
+=======
+           <titulo>El hombre bicentenario</titulo>
+           <autor>Isaac Asimov</autor>
+           <editorial>Edhasa</editorial>
+           <fecha>1976</fecha>
+           <genero>Ciencia ficción</genero>
+           <precio>20</precio>
+>>>>>>> fea/wac02
         </libro>
     </libreria>
